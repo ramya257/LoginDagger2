@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/ramya/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.4.1/381fc1096ba65040d8e80ea43b2e1d9bad02345e/logging-interceptor-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="381fc1096ba65040d8e80ea43b2e1d9bad02345e">
+        <dex dex="/home/ramya/AndroidStudioProjects/LoginApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/logging-interceptor-3.4.1_224493da078000f645243942002a40842fd8255e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ramya/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.11.0/840897fcd7223a8143f1d9b6f69714e7be34fd50/okio-1.11.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="/home/ramya/AndroidStudioProjects/LoginApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.11.0_0b042dd92ee7551130040583c6b9fcb521ab0cc5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ramya/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/home/ramya/AndroidStudioProjects/LoginApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_27c157097bfe64952198338ae56bb6d849300584/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ramya/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.2.0/a09926806199499a20b2f5168779499abfa33342/converter-gson-2.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a09926806199499a20b2f5168779499abfa33342">
+        <dex dex="/home/ramya/AndroidStudioProjects/LoginApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.2.0_70052086403956e62f3309224633a5dfa6f46bb7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ramya/.android/build-cache/83fef397ad2129506d69e45db0bd038956e6202d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/ramya/AndroidStudioProjects/LoginApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fa00d9ffc4c999c3710d6fdb8f59fe5883699ff9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ramya/.android/build-cache/cb1e13433c967d09673e42bbdd62339b2f196a08/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/ramya/AndroidStudioProjects/LoginApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e8c854ae1f7c3c79c4997059cfacbb5533a88451/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ramya/AndroidStudioProjects/LoginApplication/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/home/ramya/AndroidStudioProjects/LoginApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_0e73d3f0f41cbc47a531a453fd9644f3c3278d08/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ramya/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/home/ramya/AndroidStudioProjects/LoginApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.6.0_2cee02fee6bd285de7a110c603031183b4190cba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ramya/.android/build-cache/b87b3e548dacea26c989ad89656c528f4fd74c93/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/ramya/AndroidStudioProjects/LoginApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0a4cb4bc62ce2fab1dcb950754abffc671d509b2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ramya/.android/build-cache/c8ea5050208421ba154db24d1a690e04adb1c786/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/ramya/AndroidStudioProjects/LoginApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b7664efcbcaceb7055d5cfec1e281b6cf07f7dd2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ramya/.android/build-cache/1f6676dbd9ebc37575829dcad65e5fe3a99cf379/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/ramya/AndroidStudioProjects/LoginApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dd76e9ebb5df49bdf2d7afc8a358e575c89179df/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ramya/.android/build-cache/c5e5a162c96c928059a5068c2267d7430a76ad42/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/ramya/AndroidStudioProjects/LoginApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ee138e6d72a88b5cc2caec01e988cae08194a232/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ramya/.android/build-cache/090cfec4e815af010b40ef27bf718afb94cf0278/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/ramya/AndroidStudioProjects/LoginApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9903023ec193e37592f702d020906857d119b17e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ramya/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.2.0/41e67dba73c3347e4503761642c39d0e06ca1f2/retrofit-2.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="041e67dba73c3347e4503761642c39d0e06ca1f2">
+        <dex dex="/home/ramya/AndroidStudioProjects/LoginApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.2.0_0c2be49728eeb7c3ebf07d6e7875e70300bfd4eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ramya/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/ramya/AndroidStudioProjects/LoginApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_4d34a127ba2a1806103095f27ed981f53ad761c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ramya/.android/build-cache/e88bd042ec5fbcd8664c438bbe9c9c92dbdf6bf5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/ramya/AndroidStudioProjects/LoginApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_481efe6fecbacebac150cce5c7d2d2b4d1ff3c7a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ramya/.android/build-cache/659f5f2895fadbfedd11eb068c219d0ebfa9cdca/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/ramya/AndroidStudioProjects/LoginApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8935166e9dc0fb6a3062b078253eb1080469111a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ramya/.android/build-cache/9aba03660e8343b1caeb42856ea2cfe83cb00d04/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/ramya/AndroidStudioProjects/LoginApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_50d4a563ff2ee53d06c596e86b190aaf15acb269/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ramya/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/ramya/AndroidStudioProjects/LoginApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_795a223c38759b9ed2bfd122191e4c538e2d097b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ramya/AndroidStudioProjects/LoginApplication/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="723f80a8bf6702d62faa9a31c522371487b498f1">
+        <dex dex="/home/ramya/AndroidStudioProjects/LoginApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a9fa28367e96c4d825b59be1485a545f72a954be/classes.dex" />
+    </item>
+
+</items>
